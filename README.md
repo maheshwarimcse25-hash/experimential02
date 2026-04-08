@@ -10,7 +10,7 @@
     <!-- Header -->
     <header>
         <center>
-            <h1>Precision Tools Inc.</h1>
+            <h1> Precision Tools Inc.</h1>
             <p><i>Engineering the future with accuracy and care</i></p>
             <hr width="60%">
             <nav>
@@ -50,19 +50,19 @@
                 <table border="1" cellpadding="15" cellspacing="0">
                     <tr>
                         <td align="center">
-                            <h3>John Doe</h3>
+                            <h3>Ajay R.</h3>
                             <p><b>CEO & Founder</b></p>
                             <p>Visionary leader with 15+ years of experience.</p>
                         </td>
 
                         <td align="center">
-                            <h3>Jane Smith</h3>
+                            <h3>Rahul Singh</h3>
                             <p><b>Head of Design</b></p>
                             <p>Expert in modern product design and UX.</p>
                         </td>
 
                         <td align="center">
-                            <h3>Mike Ross</h3>
+                            <h3>Akshay Khanna</h3>
                             <p><b>Lead Engineer</b></p>
                             <p>Specialist in mechanical systems and innovation.</p>
                         </td>
@@ -73,8 +73,7 @@
 
         <br><br>
 
-        <!-- Contact Section -->
-        <section id="contact">
+               <section id="contact">
             <center>
                 <h2>Contact Us</h2>
                 <p>We’d love to hear from you!</p>
