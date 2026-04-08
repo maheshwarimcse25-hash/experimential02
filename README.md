@@ -10,7 +10,7 @@
     <!-- Header -->
     <header>
         <center>
-            <h1>🔧 Precision Tools Inc.</h1>
+            <h1>Precision Tools Inc.</h1>
             <p><i>Engineering the future with accuracy and care</i></p>
             <hr width="60%">
             <nav>
